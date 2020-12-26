@@ -40,10 +40,8 @@ output:
     #Write your code below this line 👇
 
     # key1 = a
-
     # key2 = b
     # a = key2
-
     # b = key1
 
     key = a
