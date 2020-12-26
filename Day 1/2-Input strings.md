@@ -3,7 +3,6 @@
 thonny.org
 
     # using thonny.org to see what going on 
-   
     print("Hello "+ input("What is your name?")+"!")
     
 Output:
@@ -11,13 +10,12 @@ Output:
       #input() will get user input console
       #then print() will print the world "Hello" and the user input
       
-      What is your name?Phung
-      Hello Phung!
+      What is your name?santa
+      Hello santa!
 
 # Input exercise
 
     #Write your code below this line 👇
 
     #len() calculate strings lenghth
-
     print(len(input("What is your name? ")))
