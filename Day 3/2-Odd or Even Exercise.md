@@ -1,4 +1,4 @@
-# Modula Operation
+# Modulo Operation
 The modulo is written as a percentage sign (%) in Python. It gives you the remainder after a division.
 
     7 % 2 
