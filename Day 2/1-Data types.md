@@ -1,8 +1,7 @@
 # Data Types
 
 ## 1. String
-
-EX: "Hello", "123"
+"Hello", "123", ...
 
      print("123"+"345")
 
@@ -12,6 +11,7 @@ output:
 
 
 ## Subscript
+By using [ ] we are able to dissect our string and pull out individual characters when we need it.   
 
     #print H
     print("Hello"[0])
@@ -24,15 +24,20 @@ output
     H
     o
     
-by using [ ] we are able to dissect our string and pull out individual characters when we need it   
- 
+
 ## 2. Integer
+123, 345, ...
 
-Hold number without any decimal places. EX: 123
+     #integer
+     print(123+345)
 
+output
 
-
+     468
 
 ## Float
+3.14159, 341.59, ...
 
 ## Boolean
+     True
+     False
