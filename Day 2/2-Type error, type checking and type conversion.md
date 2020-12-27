@@ -44,6 +44,7 @@ output:
 
 
 # Type Conversion (type casting)
+## str(), int(), float() 
 where we change a piece of data from one particular data type to another.
 
     num_char = len(input("What is your name? "))
@@ -61,7 +62,12 @@ output:
 
     What is your name? phoebe
     Your name has 6 characters
-    
+
+# Conclusion
+
+- We can use type function to investigate the data type we're working with.
+- We can use functions like string, int or float to convert to that data type
+
 # Exercise
 
 ## EX1
@@ -110,7 +116,4 @@ output
     170.5
     70100
 
-# Conclusion
 
-- We can use type function to investigate the data type we're working with.
-- We can use functions like string, int or float to convert to that data type
