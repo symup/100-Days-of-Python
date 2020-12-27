@@ -1,13 +1,13 @@
 # Data Types
 
-## String
+## 1. String
 
 "Hello"
 
 **Subscrip**
 
-#print H
-print("Hello"[0])
+    #print H
+    print("Hello"[0])
 
 ## Integer
 
