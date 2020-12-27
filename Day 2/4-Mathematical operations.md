@@ -28,11 +28,17 @@ output
     
 # The order of priority
 ## PEMDAS
-- Parenthese **()**
-- Exponents **^**
-- Multiplication **x**
-- Division **/**
-- Addition **+**
-- Subtraction **-**
+- Parenthese 
+- Exponents 
+- Multiplication 
+- Division 
+- Addition 
+- Subtraction 
+
+        ()
+        **
+        * /
+        + -
+        
 
 
