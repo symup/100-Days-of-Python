@@ -16,3 +16,23 @@
 output is float number
 
     3.0
+
+# Exponents
+2 ** 2
+
+    print(2**3)
+    
+output
+
+    8
+    
+# The order of priority
+## PEMDAS
+- Parenthese **()**
+- Exponents ******
+- Multiplication *****
+- Division **/**
+- Addition **+**
+- Subtraction **-**
+
+
