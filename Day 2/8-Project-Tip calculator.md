@@ -55,3 +55,38 @@ output
     What percentage tip would you like to give? 10, 12, or 15? 12
     How many people to split the bill? 7
     Each person should pay: $ 19.93
+
+# How to round float number with 2 decimals digits
+$34.5 to $34.50
+
+        Welcome to the tip calculator.
+        What was the total bill? $150
+        How much tip would you like to give? 10, 12, or 15? 15
+        How many people to split the bill? 5
+        Each person should pay: $ 34.5
+        
+## Solve:
+# Format function "{:.2f}".formart()
+
+    print("Welcome to the tip calculator.")
+
+    bill = float(input("What was the total bill? $"))
+    tip = int(input("How much tip would you like to give? 10, 12, or 15? " ))
+    people = int(input("How many people to split the bill? "))
+
+    #calculate bill per person
+    last_amount = (bill / people) * ((tip / 100 ) + 1)
+
+    last_amount_float = round(float(last_amount),2)
+    #using format function to pass in last_amount
+    last_amount_float = "{:.2f}".format(last_amount)
+
+    print(f"Each person should pay: $ {last_amount_float}" )
+
+output
+
+    Welcome to the tip calculator.
+    What was the total bill? $150
+    How much tip would you like to give? 10, 12, or 15? 15
+    How many people to split the bill? 5
+    Each person should pay: $ 34.50
