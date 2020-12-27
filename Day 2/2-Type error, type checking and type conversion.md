@@ -1,4 +1,4 @@
-# 1.Type error
+# Type error
 
 ## Example 1:
 
@@ -25,7 +25,7 @@ output:
  
  ## How can we prevent these type errors and how can we see the data type that we're working with?
  
- # 2.Type checking
+ # Type checking
  ## type()
  
  - We could use a function called **type()**
@@ -43,7 +43,7 @@ output:
     <class 'int'>
 
 
-# 3.Type Conversion (type casting)
+# Type Conversion (type casting)
 where we change a piece of data from one particular data type to another.
 
     num_char = len(input("What is your name? "))
