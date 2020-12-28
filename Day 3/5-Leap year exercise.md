@@ -33,16 +33,63 @@ This is how you work out whether if a particular year is a leap year.
     
 ## Code
 
+    # 🚨 Don't change the code below 👇
+    year = int(input("Which year do you want to check? "))
+    # 🚨 Don't change the code above 👆
 
+    #Write your code below this line 👇
+
+    # on every year that is evenly divisible by 4 
+    #   except every year that is evenly divisible by 100 
+    #     unless the year is also evenly divisible by 400
+
+    if year % 4 == 0:
+            #print("Leap year")  
+            if year % 100 == 0:
+                    #print("not Leap year.")
+                    if year % 400 == 0:
+                            print("leap year.")
+                    else: 
+                            print("not leap year.")
+            else:
+                    print("leap year.")
+    else:
+            print("not leap year.") 
 
 output
 
+    Which year do you want to check? 2100
+    not leap year.
 
 
 ## My code
 
+    # 🚨 Don't change the code below 👇
+    year = int(input("Which year do you want to check? "))
+    # 🚨 Don't change the code above 👆
 
+    #Write your code below this line 👇
+
+    # on every year that is evenly divisible by 4 
+    #   except every year that is evenly divisible by 100 
+    #     unless the year is also evenly divisible by 400
+    if year % 4 == 0:
+            print("Leap year")  
+            if year % 100 == 0:
+                    print("not Leap year.")
+
+                    if year % 400 == 0:
+                            print("leap year.")
+                    else:
+                            print("not leap year")
+            else:
+                    print("leap year.")
+    else:
+            print("not leap year.")    
 
 
 my output
 
+    Which year do you want to check? 2020
+    Leap year
+    leap year
