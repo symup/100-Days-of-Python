@@ -38,3 +38,14 @@ elif (love_score >= 40) and (love_score <= 50):
         print(f"Your score is {love_score}, you are alright together.")
 else:
         print(f"Your score is {love_score}.")
+
+# output below
+
+"""
+Welcome to the Love Calculator!
+What is your name? 
+Kanye West
+What is their name? 
+Kin Kardashian
+Your score is 42, you are alright together.
+"""
