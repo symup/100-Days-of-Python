@@ -10,6 +10,9 @@
      random_integer = random.randint(1,10)
      print(random_integer)
 
+output
+
+     6
 
 # Generating Random floating point numbers
 ## random.random()
@@ -26,3 +29,7 @@
      randomFloat = random.random() * 5
      print(randomFloat)
 
+output
+
+     0.195191610465262
+     2.9417022828539965
