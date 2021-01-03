@@ -1,6 +1,5 @@
 # Generate Random Integers
-
-     randint(a, b)
+## randint(a, b)
 
 ###### Returns a random integer between a and b
 
@@ -13,12 +12,17 @@
 
 
 # Generating Random floating point numbers
-
-     random.random()
+## random.random()
 
 ###### Returns the next random floating point number between [0.0 to 1.0)
 
      import random 
 
+     #range 0.000000 - 0.999999
      random_float = random.random()
      print(random_float)
+
+     #range 0.0000000 - 4.99999
+     randomFloat = random.random() * 5
+     print(randomFloat)
+
