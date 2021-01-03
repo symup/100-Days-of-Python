@@ -1,4 +1,5 @@
-# 💪 This is a Difficult Challenge 💪
+## 💪 This is a Difficult Challenge 💪
+# LOVE CALCULATOR
 
 # lower() function
 - This function changes all the letters in a string to lower case.
