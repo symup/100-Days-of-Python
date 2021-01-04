@@ -22,3 +22,16 @@ map[vertical-1][horizontal-1] = "X"
 
 # 🚨 Don't change the code below 👇
 print(f"{row1}\n{row2}\n{row3}")
+
+
+OUTPUT
+
+'''
+['⬜️', '⬜️', '⬜️']
+['⬜️', '⬜️', '⬜️']
+['⬜️', '⬜️', '⬜️']
+Where do you want to put the treasure? 23
+['⬜️', '⬜️', '⬜️']
+['⬜️', '⬜️', '⬜️']
+['⬜️', 'X', '⬜️']
+'''
