@@ -54,3 +54,33 @@ else:
     print("It's a draw!")
   else:
     print("You type an invalid number, you lose!")
+
+    
+OUTPUT
+
+'''
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+2
+
+    _______
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+0
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+Computer chose:
+
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+
+You win!
+'''
