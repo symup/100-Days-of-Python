@@ -1,3 +1,5 @@
+HIGH SCORE
+
 #You are going to write a program that calculates the highest score from a List of scores.
 
 # 🚨 Don't change the code below 👇
