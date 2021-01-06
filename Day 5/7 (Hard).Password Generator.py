@@ -1,4 +1,4 @@
-PASSWORD GENERATOR - EASY 
+PASSWORD GENERATOR - HARD
 
 #Password Generator Project
 import random
