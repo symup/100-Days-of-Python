@@ -1,4 +1,7 @@
-# You are going to write a program that calculates the sum of all the even numbers from 1 to 100, including 2 and 100.
+ADDING EVEN NUMBERS
+
+# You are going to write a program that calculates 
+#the sum of all the even numbers from 1 to 100, including 2 and 100.
 
 #Write your code below this row 👇
 
