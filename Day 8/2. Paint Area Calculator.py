@@ -1,4 +1,4 @@
-Paint Area Calculator
+PAINT AREA CALCULATOR
 
 #Write your code below this line 👇
 import math
