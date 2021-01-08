@@ -33,3 +33,13 @@ for position in range(word_length):
 #TODO-3: - Print 'display' and you should see the guessed letter in the correct position and every other letter replace with "_".
 #Hint - Don't worry about getting the user to guess the next letter. We'll tackle that in step 3.
 print(display)
+
+
+OUTPUT:
+        
+'''
+Pssst, the solution is camel.
+['_', '_', '_', '_', '_']
+Guess a letter: a
+['_', 'a', '_', '_', '_']
+'''
