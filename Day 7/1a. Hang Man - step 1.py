@@ -1,18 +1,4 @@
-# For & in
-
-###### for var in list
-
-    squares = [1,4,9,16]
-    sum = 0
-
-    for num in squares:
-      sum += num
-    print sum
-
-
-# Hang man (Step 1)
-
-## Step 1 
+# Step 1 
 
     word_list = ["aardvark", "baboon", "camel"]
 
