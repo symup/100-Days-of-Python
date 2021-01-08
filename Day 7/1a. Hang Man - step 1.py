@@ -1,4 +1,4 @@
-# Step 1 
+    # Step 1 
 
     word_list = ["aardvark", "baboon", "camel"]
 
@@ -15,3 +15,18 @@
             print("Right")
         else:
             print("Wrong")
+
+            
+OUTPUT
+
+'''
+Guess a letter: a
+Right
+Right
+Wrong
+Wrong
+Wrong
+Right
+Wrong
+Wrong
+'''
