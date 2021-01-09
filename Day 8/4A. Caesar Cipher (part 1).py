@@ -14,12 +14,8 @@ def encrypt(plain_text, shift_amount):
     #TODO-2: Inside the 'encrypt' function, 
     #shift each letter of the 'text' forwards in the alphabet by the shift amount 
     #and print the encrypted text.  
-    #e.g. 
-    #plain_text = "hello"
-    #shift = 5
-    #cipher_text = "mjqqt"
-    #print output: "The encoded text is mjqqt"
     cipher_text = ""
+    
     for letter in plain_text:
         position = alphabet.index(letter)
         new_position = position + shift_amount
