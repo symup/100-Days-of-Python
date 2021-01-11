@@ -82,5 +82,10 @@ Type 'encode' to encrypt, type 'decode' to decrypt:
 decode
 Type your message:
 mjqqt $
-Ty
+Type the shift number:
+5
+Here's the decoded result: hello $
+Type 'yes' if you want to go agian. Otherwise type 'no'.
+no
+Goodbye
 '''
