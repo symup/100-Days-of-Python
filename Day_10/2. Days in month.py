@@ -5,17 +5,13 @@ DAYS IN MONTH
 def is_leap(year):
   if year % 4 == 0:
     if year % 100 == 0:
-      if year % 400 == 0:
-        #print("Leap year.") 
+      if year % 400 == 0: 
         return True
       else:
-        #print("Not leap year.")
         return False
     else:
-      #print("Leap year.")
       return True
   else:
-    #print("Not leap year.")
     return False
 
 #step 2- create a function called days_in_month() which will take a year and a month as inputs, e.g.
@@ -37,7 +33,6 @@ year = int(input("Enter a year: "))
 month = int(input("Enter a month: "))
 days = days_in_month(year, month)
 print(days)
-
 
 output:
   '''
