@@ -1,6 +1,6 @@
 # 100-Days-of-Python
 
-<a name="bcp"></a>Bootcamp Python
+<a name="bcp"></a>Python Projects
 
 ## TABLE OF CONTENT: 
 * [Day 1 - Brand Name Generator](#bcp)
